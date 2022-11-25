@@ -1,4 +1,4 @@
-### *I'm a BackEnd Developer🙃   
+## *I'm a BackEnd Developer🙃   
 
   
 
@@ -9,7 +9,7 @@
 
 📚Tech Stack
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express-FFFFFF?style=flat-square&logo=express&logoColor=black"> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=Prisma&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-FFFFFF?style=flat-square&logo=MySQL&logoColor=black"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/AmazonAWS-FFFFFF?style=flat-square&logo=AmazonAWS&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-%23323330?style=flat-square&logo=JavaScript&logoColor=yellow"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=black"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=Prisma&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=black"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/AmazonAWS-FFFFFF?style=flat-square&logo=AmazonAWS&logoColor=black"/>
 
 
 
