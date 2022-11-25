@@ -6,13 +6,14 @@
 
 <a href="https://wjjayyy.notion.site/to-the-to-the-0b6901156a1149d1a850dccb213dd0b4">
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
-</a> 
- <a href="https://github.com/dyjeong576">
-  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=Github&logoColor=white"/>
-</a> 
+</a>
 <a href="mailto:dyjeong576@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 </a>
+ <a href="https://github.com/dyjeong576">
+  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=Github&logoColor=white"/>
+</a> 
+
 
 📚Tech Stack
 
