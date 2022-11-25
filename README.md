@@ -1,6 +1,9 @@
-## *I'm a BackEnd Developer🙃   
+## *I'm a BackEnd Developer😎
 
-  
+<div width= '320' align="center">
+<img width= '320' src="https://user-images.githubusercontent.com/93499143/167073633-a51ef591-3df7-4835-bbd8-ed9402898eb8.gif"/>
+  <br/>
+  <br/>
 
 🌍SNS
 
