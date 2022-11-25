@@ -1,35 +1,24 @@
-# 꾸준히 성장하는 백엔드 개발자 장기석 입니다.
+### *I'm a BackEnd Developer😎*    
 
-## Tech Stack
-<br>
-<div>
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=Mysql&logoColor=black">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=black">
-<img src="https://img.shields.io/badge/express-FF9900?style=for-the-badge&logo=express&logoColor=black">
-<img src="https://img.shields.io/badge/AWS RDS-527FFF?style=for-the-badge&logo=AMAZON RDS&logoColor=black">
-<img src="https://img.shields.io/badge/AWS S3-FF9900?style=for-the-badge&logo=AMAZON S3&logoColor=black">
-<img src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-badge&logo=AMAZON EC2&logoColor=black">
-<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  </div>
-<br>
-<br>
+  
 
-## Tools
-<br>
-<div>
-<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-<img src="https://img.shields.io/badge/trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
-  </div>
-<br>
-<br>
+🌍SNS
 
-***
+<a href="https://wjjayyy.notion.site/to-the-to-the-0b6901156a1149d1a850dccb213dd0b4">
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+</a> 
+ <a href="https://github.com/dyjeong576">
+  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=Github&logoColor=white"/>
+</a> 
+<a href="mailto:dyjeong576@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+</a>
 
-## Other
-<br>
+📚Tech Stack
 
-[![Gisuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=pienkk)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pienkk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://img.shields.io/badge/C++-0599C?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpienkk&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+🛠️Tools
+
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
+
