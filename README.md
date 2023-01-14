@@ -5,7 +5,7 @@
 
 🌍 SNS
 
-<a href="https://wjjayyy.notion.site/to-the-to-the-0b6901156a1149d1a850dccb213dd0b4"> <img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat&logo=Notion&logoColor=black"/></a> <a href="https://github.com/dyjeong576"> <img src="https://img.shields.io/badge/github-181717?style=flat&logo=Github&logoColor=white"/></a> <a href="mailto:91gjstr@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a> 
+<a href="https://www.notion.so/wjjayyy/49c3a0c027a648ea84de169c5953df57?v=a93c6abf2727422f9735ed0332d63c9d"> <img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat&logo=Notion&logoColor=black"/></a> <a href="https://github.com/dyjeong576"> <img src="https://img.shields.io/badge/github-181717?style=flat&logo=Github&logoColor=white"/></a> <a href="mailto:91gjstr@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a> 
 
 
 🧑🏻‍💻 Tech Stack
